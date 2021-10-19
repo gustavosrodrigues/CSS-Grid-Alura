@@ -10,17 +10,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.cabecalho {
-    background-color: green;
+.cabecalho {    
     grid-area: Cabecalho;
 }
  
 .conteudo {
-    background-color: red;
     grid-area: Conteudo;
 }
 
 .rodape {
-    background-color: blue;
     grid-area: Rodape;
 }
