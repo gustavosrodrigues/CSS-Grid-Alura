@@ -10,7 +10,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.cabecalho {    
+.cabecalho {
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
     grid-area: Cabecalho;
 }
  
