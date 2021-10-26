@@ -6,7 +6,7 @@
     display: flex;
     flex-wrap: wrap;    
     grid-area: conteudo;
-    padding: 1rem 0;
+    padding: 1rem 0;    
 }
 
 .populares__card {    
@@ -16,7 +16,14 @@
         "card-imagem"
         "card-corpo";
     grid-template-columns: 100%;
-    grid-template-rows: 173px auto;    
+    grid-template-rows: 173px auto;
+    box-shadow: -5px 5px 16px lightgray;
+    transition: box-shadow 0.5s, width 0.25s;
+}
+
+.populares__card:hover {
+    transition: box-shadow 0.25s;
+    box-shadow: -5px 5px 16px gray;        
 }
 
 .populares__card:last-child { 
