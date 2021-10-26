@@ -15,3 +15,34 @@ Foi utilizado de uma página fictícia chamada Alura Store para os conceitos de 
 <br>
 
 ## Página da Alura Shop
+
+### Menu Destaques
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/menuDesk.png" alt="Layout Menu" width="1280" title="Alura Shop Menu Desktop">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/menuIpad.png" alt="Layout Menu" width="1280" title="Alura Shop Menu Ipad">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/menuPhone.png" alt="Layout Menu"width="1280" title="Alura Shop Menu Phone">
+</p>
+
+### Cards Populares
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/cardsDesk.png" alt="Layout Cards" width="1280" title="Alura Shop Cards Desktop">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/cardsIpad.png" alt="Layout Cards" width="1280" title="Alura Shop Cards Ipad">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/cardsPhone1.png" alt="Layout Cards" width="1280" title="Alura Shop Cards Phone">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/CSS-Grid-Alura/main/assets/telas/cardsPhone2.png" alt="Layout Cards" width="1280" title="Alura Shop Cards Phone">
+</p>
+
